@@ -1,0 +1,137 @@
+{
+   "OK": {
+      "message": "OK"
+   },
+   "aboutdiigo": {
+      "message": "Diigo hakkında:"
+   },
+   "aboutdiigo_1": {
+      "message": "web sayfalarınızı sık kullanılan listelerine eklemek, arşivlemek ve dipnotlamak, "
+   },
+   "aboutdiigo_2": {
+      "message": "notlarınızı, resimlerinizi ve ekran görüntülerinizi saklamak,"
+   },
+   "aboutdiigo_3": {
+      "message": "verilerinizi çeşitli yollarla aramak, organize etmek ve paylaşmak"
+   },
+   "aboutdiigo_4": {
+      "message": "Android tabanlı cihazlar, iPhone ve iPad uygulamaları aracılığı ile heryerden erişerek kullanabileceğiniz çok amaçlı bir koleksiyon aracıdır."
+   },
+   "aboutdiigo_d": {
+      "message": "Diigo,"
+   },
+   "archive": {
+      "message": "Arşiv"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "close": {
+      "message": "Yakın"
+   },
+   "delete": {
+      "message": "Sil"
+   },
+   "description": {
+      "message": "Sayfaları daha sonra okumak için saklayın "
+   },
+   "googleaccount": {
+      "message": "Google account"
+   },
+   "havediigo": {
+      "message": "Halihazırda bir Diigo hesabınız mı var?"
+   },
+   "itemarchive": {
+      "message": " öğe arşivlendi"
+   },
+   "itemsarchive": {
+      "message": " öğe arşivlendi"
+   },
+   "lastsync": {
+      "message": "son eşitleme saati "
+   },
+   "learnmore": {
+      "message": "Daha fazlasını öğrenin >>"
+   },
+   "linksave": {
+      "message": "Link Kaydedildi"
+   },
+   "morelink": {
+      "message": "Diigo kütüphanesindeki tüm öğeleri gör >>"
+   },
+   "networkerror": {
+      "message": "Ağ Hatası"
+   },
+   "newdiigo": {
+      "message": "Diigo ile yeni mi tanışıyorsunuz? Diigo.com'a Google hesabınız ile bağlanın."
+   },
+   "newtab": {
+      "message": "Yeni sekmede aç"
+   },
+   "noselected": {
+      "message": "Seçili öğe yok."
+   },
+   "original": {
+      "message": "Orijinal"
+   },
+   "pagesave": {
+      "message": "Sayfa Kaydedildi"
+   },
+   "password": {
+      "message": "Parola"
+   },
+   "preferences": {
+      "message": "Tercihler"
+   },
+   "saveclosetab": {
+      "message": "\"Daha sonra oku\" listesine ekledikten sonra sekmeyi kapat"
+   },
+   "saveonline": {
+      "message": "Internet'e Kaydet:"
+   },
+   "saveonline_d": {
+      "message": "Read Later Fast, web sayfası listenizin herhangi bir bilgisayar veya telefondan erişimini sağlamak için şu anda Diigo.com'un bulut tabanlı depolama hizmetlerini kullanmaktadır."
+   },
+   "shortcuts": {
+      "message": "\"Daha sonra oku\" listesine eklemek için klavye kısayolu"
+   },
+   "sigining": {
+      "message": "Giriş Yap..."
+   },
+   "signerror": {
+      "message": "Geçersiz Kullanıcı Adı/E-Posta ve Parola kombinasyonu"
+   },
+   "signin": {
+      "message": "Giriş Yap"
+   },
+   "sonline": {
+      "message": "Internet'e Kaydet"
+   },
+   "stop": {
+      "message": "Senkronizasyonu Durdur"
+   },
+   "stopsync": {
+      "message": "Diigo ile senkronizasyon durdurulsun mu?"
+   },
+   "syncing": {
+      "message": "Syncing..."
+   },
+   "synconline": {
+      "message": "Internet'e senkronize et"
+   },
+   "textview": {
+      "message": "Metin Olarak Görüntüle"
+   },
+   "unread": {
+      "message": "Okunmamışlar"
+   },
+   "updatepage": {
+      "message": "Bu sayfa daha önceki kaydedildi. O Update?"
+   },
+   "username_email": {
+      "message": "Kullanıcı adı veya E-Posta Adresi"
+   },
+   "yes": {
+      "message": "Yes"
+   }
+}

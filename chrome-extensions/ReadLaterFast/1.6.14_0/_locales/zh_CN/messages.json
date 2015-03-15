@@ -1,0 +1,140 @@
+{
+   "OK": {
+      "message": "确定"
+   },
+   "aboutdiigo": {
+      "message": "关于Diigo:"
+   },
+   "aboutdiigo_1": {
+      "message": ""
+   },
+   "aboutdiigo_2": {
+      "message": ""
+   },
+   "aboutdiigo_3": {
+      "message": ""
+   },
+   "aboutdiigo_4": {
+      "message": ""
+   },
+   "aboutdiigo_d": {
+      "message": "Diigo 帮助用户从计算机，手机，浏览器里面收集各种重要信息，并通过多种途径访问他们。"
+   },
+   "archive": {
+      "message": "存档"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "close": {
+      "message": "关闭"
+   },
+   "delete": {
+      "message": "删除"
+   },
+   "description": {
+      "message": "保存页面稍候阅读 -- 离线或者在线的, 快速的! 避免太多的标签使你的浏览器爆炸!"
+   },
+   "googleaccount": {
+      "message": "Google account"
+   },
+   "havediigo": {
+      "message": "已经拥有Diigo账号？"
+   },
+   "itemarchive": {
+      "message": "条已存档"
+   },
+   "itemsarchive": {
+      "message": "条已存档"
+   },
+   "lastsync": {
+      "message": "上次同步在"
+   },
+   "learnmore": {
+      "message": "了解更多>>"
+   },
+   "linksave": {
+      "message": "链接已保存"
+   },
+   "local": {
+      "message": "zh_CN"
+   },
+   "morelink": {
+      "message": "查看所有书签 >>"
+   },
+   "networkerror": {
+      "message": "网络错误"
+   },
+   "newdiigo": {
+      "message": "没有Diigo账号？连接到Diigo.com通过"
+   },
+   "newtab": {
+      "message": "在新标签中打开"
+   },
+   "noselected": {
+      "message": "未选中任何条目"
+   },
+   "original": {
+      "message": "原页面"
+   },
+   "pagesave": {
+      "message": "页面已保存"
+   },
+   "password": {
+      "message": "密码"
+   },
+   "preferences": {
+      "message": "首选项"
+   },
+   "saveclosetab": {
+      "message": "保存后关闭页面"
+   },
+   "saveonline": {
+      "message": "在线保存:"
+   },
+   "saveonline_d": {
+      "message": "Read Later Fast目前使用Diigo.com提供的云储存服务，你可以从任何一台电脑或智能手机访问你的书签"
+   },
+   "shortcuts": {
+      "message": "快捷键"
+   },
+   "sigining": {
+      "message": "正在登陆..."
+   },
+   "signerror": {
+      "message": "用户名或密码错误"
+   },
+   "signin": {
+      "message": "登陆"
+   },
+   "sonline": {
+      "message": "保存至网络"
+   },
+   "stop": {
+      "message": "停止同步"
+   },
+   "stopsync": {
+      "message": "和Diigo停止同步？"
+   },
+   "syncing": {
+      "message": "正在同步..."
+   },
+   "synconline": {
+      "message": "同步"
+   },
+   "textview": {
+      "message": "文字模式"
+   },
+   "unread": {
+      "message": "未读"
+   },
+   "updatepage": {
+      "message": "这个页面已经保存，更新？"
+   },
+   "username_email": {
+      "message": "用户名/电子邮箱地址"
+   },
+   "yes": {
+      "message": "确定"
+   }
+}

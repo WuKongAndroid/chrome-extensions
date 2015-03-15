@@ -1,0 +1,137 @@
+{
+   "OK": {
+      "message": "OK"
+   },
+   "aboutdiigo": {
+      "message": "Informacje o Diigo:"
+   },
+   "aboutdiigo_1": {
+      "message": "bzakładek, archiwizowanie stron,  "
+   },
+   "aboutdiigo_2": {
+      "message": "zapisywanie notatek, obrazków i screenów,"
+   },
+   "aboutdiigo_3": {
+      "message": "przeszukiwanie, organizowanie oraz dzielenie się zebranymi danymi na wiele sposobów,"
+   },
+   "aboutdiigo_4": {
+      "message": "dzięki mobilnym aplikacjom Diigo, do naszych danych możemy się dostać wszędzie przy pomocy iPhone'a, iPada lub telefonu z Androidem."
+   },
+   "aboutdiigo_d": {
+      "message": "Diigo jest darmową usługą, pozwalającą na zbieranie"
+   },
+   "archive": {
+      "message": "Zarchiwizuj"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "close": {
+      "message": "Zamknij"
+   },
+   "delete": {
+      "message": "Usuń"
+   },
+   "description": {
+      "message": "Szybko zapisuj strony na później, online lub offline."
+   },
+   "googleaccount": {
+      "message": "Google account"
+   },
+   "havediigo": {
+      "message": "Już masz konto w Diigo?"
+   },
+   "itemarchive": {
+      "message": " elementów zarchiwizowano"
+   },
+   "itemsarchive": {
+      "message": " elementów zarchiwizowano"
+   },
+   "lastsync": {
+      "message": "Ostatnia synchronizacja: "
+   },
+   "learnmore": {
+      "message": "Dowiedz się więcej >>"
+   },
+   "linksave": {
+      "message": "Link Zapisane"
+   },
+   "morelink": {
+      "message": "Wyświetl wszystkie elementy z twojej biblioteki Diigo >>"
+   },
+   "networkerror": {
+      "message": "Błąd sieciowy"
+   },
+   "newdiigo": {
+      "message": "Nie masz konta w Diigo? Połącz się przy pomocy konta Google"
+   },
+   "newtab": {
+      "message": "Otwórz na nowej karcie"
+   },
+   "noselected": {
+      "message": "Nie wybrano żadnych elementów."
+   },
+   "original": {
+      "message": "Oryginał"
+   },
+   "pagesave": {
+      "message": "Zapisane strony"
+   },
+   "password": {
+      "message": "Hasło"
+   },
+   "preferences": {
+      "message": "Preferencje"
+   },
+   "saveclosetab": {
+      "message": "Zamknij zakładkę po oznaczeniu strony do późniejszego przeczytania"
+   },
+   "saveonline": {
+      "message": "Zapisz w internecie:"
+   },
+   "saveonline_d": {
+      "message": "Read Later Fast używa obecnie Diigo.com do przechowywania stron w chmurce, dzięki czemu możesz się do nich dostać z dowolnego komputera."
+   },
+   "shortcuts": {
+      "message": "Skrót klawiaturowy dla oznaczenia do późniejszego przeczytania"
+   },
+   "sigining": {
+      "message": "Zaloguj..."
+   },
+   "signerror": {
+      "message": "Błędna nazwa użytkownika/email lub hasło"
+   },
+   "signin": {
+      "message": "Zaloguj"
+   },
+   "sonline": {
+      "message": "Zapisz w internecie"
+   },
+   "stop": {
+      "message": "Zatrzymaj synchronizację"
+   },
+   "stopsync": {
+      "message": "Zatrzymać synchronizację z Diigo?"
+   },
+   "syncing": {
+      "message": "Syncing..."
+   },
+   "synconline": {
+      "message": "Synchronizuj online"
+   },
+   "textview": {
+      "message": "Widok tekstowy"
+   },
+   "unread": {
+      "message": "Nieprzeczytane"
+   },
+   "updatepage": {
+      "message": "Tę stronę już zapisanych wcześniej. Update?"
+   },
+   "username_email": {
+      "message": "Nazwa użytkownika lub email"
+   },
+   "yes": {
+      "message": "Yes"
+   }
+}
